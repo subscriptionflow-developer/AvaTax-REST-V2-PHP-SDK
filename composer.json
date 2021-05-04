@@ -1,5 +1,5 @@
 {
-    "name": "avalara/avataxclient",
+    "name": "avalara/avatax-php",
     "description": "Client library for Avalara's AvaTax suite of business tax calculation and processing services. Uses the REST v2 API.",
     "keywords": [
         "tax",
