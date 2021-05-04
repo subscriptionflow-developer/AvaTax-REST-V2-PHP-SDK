@@ -22,7 +22,7 @@ To use the AvaTax PHP SDK from Composer:
 ```json
 {
     "require": {
-        "avalara/avataxclient": "*"
+        "subscriptionflow/avatax-php": "*"
     }
 }
 ```
